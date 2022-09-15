@@ -31,7 +31,6 @@
                         <constraints>
                             <constraint firstItem="sJE-tG-vmw" firstAttribute="height" secondItem="bYz-OL-TmT" secondAttribute="height" id="2i0-Ib-Leu"/>
                             <constraint firstItem="bYz-OL-TmT" firstAttribute="top" secondItem="sJE-tG-vmw" secondAttribute="bottom" constant="20" id="Dsx-aU-nGR"/>
-                            <constraint firstItem="sJE-tG-vmw" firstAttribute="width" secondItem="bYz-OL-TmT" secondAttribute="width" id="E2x-Sk-dLM"/>
                             <constraint firstItem="bYz-OL-TmT" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="FiT-xY-soe"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="bYz-OL-TmT" secondAttribute="bottom" constant="20" id="Flw-j9-Jof"/>
                             <constraint firstItem="sJE-tG-vmw" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="XU5-ZX-dW7"/>
